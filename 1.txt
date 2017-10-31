@@ -1,4 +1,4 @@
-﻿What do you like more?
+What do you like more?
 1. php
 2. C++
 3. C#
@@ -12,5 +12,6 @@
 Кинаятов - 6
 Лебёдкин - 7
 Грошев - 2
+Ахриев - 6
 //Your answer
 //example: Масляев - 6
