@@ -13,5 +13,6 @@ What do you like more?
 Лебёдкин - 7
 Грошев - 2
 Ахриев - 6
+Тимофеева - 3
 //Your answer
 //example: Масляев - 6
