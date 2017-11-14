@@ -14,5 +14,6 @@ What do you like more?
 Грошев - 2
 Ахриев - 6
 Тимофеева - 3
+Антонов - 6
 //Your answer
 //example: Масляев - 6
