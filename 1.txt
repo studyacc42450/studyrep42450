@@ -28,6 +28,10 @@ What do you like more?
 Лузанов - 3
 Федяев - 6
 Ховалыг - 3
+<<<<<<< HEAD
 Спицын - 3
+=======
+Голубенко - 6
+>>>>>>> 1d46cd0494de5d0cc6db85859b3f8caf7fa1ee11
 //Your answer
 //example: Масляев - 6
