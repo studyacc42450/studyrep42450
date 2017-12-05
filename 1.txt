@@ -31,5 +31,6 @@ What do you like more?
 Спицын - 3
 Голубенко - 6
 Куликовских - 6
+Якушин - 3
 //Your answer
 //example: Масляев - 6
