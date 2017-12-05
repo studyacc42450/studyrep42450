@@ -1,7 +1,7 @@
 What do you like more?
 1. php
 2. C++
-3. C#
+3. C# 
 4. Ruby
 5. Python
 6. other
@@ -31,6 +31,10 @@ What do you like more?
 Спицын - 3
 Голубенко - 6
 Якушин - 3
+Зайцев - 3
+Куликовских - 6
+Косых - 3
+Челядинов - 3
 Баженов - 6
 //Your answer
 //example: Масляев - 6
