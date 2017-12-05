@@ -28,5 +28,6 @@ What do you like more?
 Лузанов - 3
 Федяев - 6
 Ховалыг - 3
+Голубенко - 6
 //Your answer
 //example: Масляев - 6
