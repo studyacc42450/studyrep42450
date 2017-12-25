@@ -36,5 +36,6 @@ What do you like more?
 Косых - 3
 Челядинов - 3
 Баженов - 6
+Учайкин - 2
 //Your answer
 //example: Масляев - 6
